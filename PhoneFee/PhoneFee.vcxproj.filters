@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\PhoneFee.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\PhoneFee.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\login.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\loginnew1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\button.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\button1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\top.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bot.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\right.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\rb.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\rt.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PhoneFee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PhoneFeeDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ccount.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cselect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AllService1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HisrotyFee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PhoneFeeAdd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddAdmin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddService.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PhoneFee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PhoneFeeDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LogDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ccount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cselect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AllService1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HisrotyFee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PhoneFeeAdd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddAdmin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddService.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PhoneFee.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
